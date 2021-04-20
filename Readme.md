@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning everything.🤣
 - 👯 I’m  always looking for challenging opportunities ahead.
 - 🥅 2021 Goals: Enhance my skill set.
+- 📭 How to reach me: <a href="https://www.linkedin.com/in/shivasabokdast/" target="_blank">Let's get in touch!</a>
 - ⚡ Fun fact: I love 🍔 and 😱 movies
-
+  
 
 <br />
 
