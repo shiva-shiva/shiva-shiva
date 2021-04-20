@@ -22,6 +22,6 @@
 
  [![Angular Badge](https://img.shields.io/badge/-Angular-c3002f?style=for-the-badge&labelColor=black&logo=angular&logoColor=c3002f)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![MonogoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3FA037)](#) [![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
- [![ExpressJS Badge](https://img.shields.io/badge/-Express.JS-7b7b7b?style=for-the-badge&labelColor=black&logo=express&logoColor=7b7b7b)](#) [![Html Badge](https://img.shields.io/badge/-Html-ec6534?style=for-the-badge&labelColor=black&logo=html&logoColor=ec6534)](#) 
- [![Css Badge](https://img.shields.io/badge/-Css-1a0dab?style=for-the-badge&labelColor=black&logo=css&logoColor=1a0dab)](#) 
+ [![ExpressJS Badge](https://img.shields.io/badge/-Express.JS-7b7b7b?style=for-the-badge&labelColor=black&logo=express&logoColor=7b7b7b)](#) [![Html5 Badge](https://img.shields.io/badge/-Html5-ec6534?style=for-the-badge&labelColor=black&logo=html5&logoColor=ec6534)](#) 
+ [![Css3 Badge](https://img.shields.io/badge/-Css3-1a0dab?style=for-the-badge&labelColor=black&logo=css3&logoColor=1a0dab)](#) 
 <br />
