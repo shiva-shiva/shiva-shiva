@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love 🍔 and 😱 movies
   
 
-<br />
 
 ### This week I spent my time on:
 
