@@ -16,7 +16,7 @@
 
 ### This week I spent my time on:
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-shiva&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-shiva&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
