@@ -1,6 +1,6 @@
 ### Hi there, I'm Shiva 👋
 
- I'm a Full Stack developer. I have worked on multiple projects using React, Angular and node.js.
+ #### I'm a Full Stack developer. I have worked on multiple projects using React, Angular and node.js.
  
 #### Gist about me:
 
