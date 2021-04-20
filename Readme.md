@@ -2,7 +2,7 @@
 
  #### I'm a Full Stack developer. I have worked on multiple projects using React, Angular and node.js.
  
-#### Gist about me:
+### Gist about me:
 
 - 🔭 I'm Currently working on something cool.
 - 🌱 I’m currently learning everything.🤣
